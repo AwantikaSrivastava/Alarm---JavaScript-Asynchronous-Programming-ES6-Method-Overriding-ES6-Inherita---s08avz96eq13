@@ -61,3 +61,5 @@ export default function Alarm(props) {
             {/* {props.time == props.alarmTime ? <ActiveAlarm open={true} label={props.label} alarmTime={props.alarmTime} /> : <ActiveAlarm open={false} label={props.label} alarmTime={props.alarmTime} />} */}
         </>
     )
+}
+
